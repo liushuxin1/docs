@@ -15,6 +15,7 @@
 * [使用Nacos实现Spring Cloud Gateway的动态路由](zh-cn/nacos_geteway)
 * [数据权限](zh-cn/dataRole)
 * [代码生成器使用说明](zh-cn/code)
+* [服务间Feign相互调用](zh-cn/feign)
 
 
 
